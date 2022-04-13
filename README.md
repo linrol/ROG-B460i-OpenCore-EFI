@@ -18,15 +18,15 @@
 | -------- | ---------------------------------------- |
 | 主板型号 | Asus ROG Strix B460-I             |
 | 处理器   | Intel Core i5 10400           |
-| 内存     | Asgard 32GB 2x16GB DDR4 2666Mhz                 |
-| 电源     | 益衡7145b 1U                    |
-| 机箱     | Formula 2S                    |
+| 内存     | 海盗船RGB 16GB 2x8GB DDR4 3000Mhz                 |
+| 电源     | 全汉MS450                    |
+| 机箱     | 酷鱼T40                    |
 | 显卡     | HD630                    |
-| 硬盘     | WDS500G3X0C-00SJG0 512GB M.2 NVMe                  |
+| 硬盘     | 爱国者p2000 500GB M.2 NVMe                  |
 | 声卡     | Realtek ALCS1220A (Layout 7)                    |
-| 网卡&蓝牙     | DW1560 + NGFF M.2 Adapter                             |
+| 网卡&蓝牙     | BCM94352Z + NGFF M.2 Adapter                             |
 | 板载网卡 | Intel® i219-V 1Gb Ethernet |
-| 显示器   | Q2490W1  |
+| 显示器   | 小米曲面显示器  |
 
 ---
 
