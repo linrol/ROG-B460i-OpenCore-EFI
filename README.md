@@ -61,6 +61,15 @@
 
 ---
 
+## 使用的工具
+
+[HackintoshBuild](https://github.com/bugprogrammer/HackintoshBuild)
+
+[ProperTree](https://github.com/corpnewt/ProperTree)
+
+[Hackintool](https://github.com/headkaze/Hackintool)
+---
+
 ### FAQ
 - 记得修改platforminfo里面的串号，以免不能登陆app store
 - 显示器输出支持HDMI DP 核显独显都支持
