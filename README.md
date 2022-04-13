@@ -1,4 +1,4 @@
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.7-yellowgreen)](https://github.com/zf1976/ROG-Strix-B460I_OC_Hackintosh/releases/tag/0.7.7)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.7-yellowgreen)](https://github.com/linrol/ROG-B460i-OpenCore-EFI/releases/tag/0.7.7)
 [![macOS](https://img.shields.io/badge/macOS-12.3.1-orange)](https://www.apple.com/macos/catalina/)
 [![MODEL](https://img.shields.io/badge/Model-B460I-blue)](https://www.asus.com/Motherboards/ROG-STRIX-B460-I-GAMING/)
 [![BIOS](https://img.shields.io/badge/BIOS-0707-brightgreen)](#)
