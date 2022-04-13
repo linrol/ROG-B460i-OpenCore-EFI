@@ -24,7 +24,7 @@
 | 显卡     | HD630                    |
 | 硬盘     | 爱国者p2000 500GB M.2 NVMe                  |
 | 声卡     | Realtek ALCS1220A (Layout 7)                    |
-| 网卡&蓝牙     | BCM94352Z + NGFF M.2 Adapter                             |
+| 网卡&蓝牙     | BCM94352Z（fenvi）                             |
 | 板载网卡 | Intel® i219-V 1Gb Ethernet |
 | 显示器   | 小米曲面显示器  |
 
